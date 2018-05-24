@@ -1,6 +1,6 @@
 # Basic
 title: Brainboys
-subtitle: A blog-orientation theme for Jekyll
+subtitle: 永远不要放弃自己
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: Brainboys
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: brainboy
+    github: brainboy
+    twitter: brainboy
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: brainboy@foxmail.com
 
 # Google Analytics
 ga:
